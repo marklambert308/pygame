@@ -1,3 +1,5 @@
+.. image:: https://travis-ci.org/marklambert308/pygame.svg?branch=master
+    :target: https://travis-ci.org/marklambert308/pygame
 
 
 About pygame
