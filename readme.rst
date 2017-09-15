@@ -1,6 +1,9 @@
 .. image:: https://travis-ci.org/marklambert308/pygame.svg?branch=master
     :target: https://travis-ci.org/marklambert308/pygame
 
+.. image:: https://coveralls.io/repos/github/marklambert308/pygame/badge.svg?branch=master
+   :target: https://coveralls.io/github/marklambert308/pygame?branch=master
+
 
 About pygame
 ============
