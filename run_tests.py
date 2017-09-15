@@ -9,6 +9,6 @@ For command line options use the --help option.
 #import test.__main__
 
 val = 3
-newval = 4
+newval = 3
 
 assert(val == newval), 'vals not equal'
